@@ -1,0 +1,18 @@
+{
+  "name": "Veilify Video Studio",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "forwardPorts": [
+    3345
+  ],
+  "portsAttributes": {
+    "3345": {
+      "label": "Veilify Remotion Studio",
+      "onAutoForward": "openBrowser"
+    }
+  },
+  "postCreateCommand": "npm ci && npx remotion browser ensure",
+  "postStartCommand": "bash .devcontainer/start-studio.sh",
+  "remoteUser": "node"
+}

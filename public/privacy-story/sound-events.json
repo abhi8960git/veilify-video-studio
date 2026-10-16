@@ -1,0 +1,397 @@
+[
+  {
+    "time": 0,
+    "duration": 0.6,
+    "effect": "air"
+  },
+  {
+    "time": 6,
+    "duration": 0.6,
+    "effect": "air"
+  },
+  {
+    "time": 13,
+    "duration": 0.6,
+    "effect": "air"
+  },
+  {
+    "time": 18,
+    "duration": 0.6,
+    "effect": "air"
+  },
+  {
+    "time": 29,
+    "duration": 0.6,
+    "effect": "air"
+  },
+  {
+    "time": 1.72,
+    "duration": 0.08,
+    "effect": "snap"
+  },
+  {
+    "time": 1.77,
+    "duration": 1.55,
+    "effect": "air"
+  },
+  {
+    "time": 3.6,
+    "duration": 0.32,
+    "effect": "ding"
+  },
+  {
+    "time": 6.83,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 6.897,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 6.964,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 7.031,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 7.098,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 7.165,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 7.232,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 7.299,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 7.366,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 7.433,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 7.5,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 7.567,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 7.634,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 7.7010000000000005,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 7.768,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 7.835,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 7.902,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 7.969,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 8.036,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 8.103,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 8.17,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 8.237,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 8.304,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 8.371,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 8.438,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 8.505,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 8.572,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 8.639,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 8.706,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 8.773,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 9.55,
+    "duration": 0.07,
+    "effect": "snap"
+  },
+  {
+    "time": 14.43,
+    "duration": 0.08,
+    "effect": "snap"
+  },
+  {
+    "time": 14.73,
+    "duration": 0.23,
+    "effect": "ding"
+  },
+  {
+    "time": 18.72,
+    "duration": 0.7,
+    "effect": "air"
+  },
+  {
+    "time": 19.53,
+    "duration": 0.08,
+    "effect": "snap"
+  },
+  {
+    "time": 19.36,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 19.407,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 19.454,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 19.500999999999998,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 19.548,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 19.595,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 19.642,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 19.689,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 19.736,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 19.782999999999998,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 19.83,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 19.877,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 19.924,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 19.971,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 20.018,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 20.064999999999998,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 20.112,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 20.159,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 20.206,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 20.253,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 20.3,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 20.346999999999998,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 20.394,
+    "duration": 0.04,
+    "effect": "tick"
+  },
+  {
+    "time": 21.15,
+    "duration": 0.34,
+    "effect": "ding"
+  },
+  {
+    "time": 21.62,
+    "duration": 1.1,
+    "effect": "air"
+  },
+  {
+    "time": 22.88,
+    "duration": 0.3,
+    "effect": "ding"
+  },
+  {
+    "time": 23.9,
+    "duration": 0.045,
+    "effect": "tick"
+  },
+  {
+    "time": 24.029999999999998,
+    "duration": 0.045,
+    "effect": "tick"
+  },
+  {
+    "time": 24.16,
+    "duration": 0.045,
+    "effect": "tick"
+  },
+  {
+    "time": 24.29,
+    "duration": 0.045,
+    "effect": "tick"
+  },
+  {
+    "time": 24.419999999999998,
+    "duration": 0.045,
+    "effect": "tick"
+  },
+  {
+    "time": 24.549999999999997,
+    "duration": 0.045,
+    "effect": "tick"
+  },
+  {
+    "time": 24.68,
+    "duration": 0.045,
+    "effect": "tick"
+  },
+  {
+    "time": 24.81,
+    "duration": 0.045,
+    "effect": "tick"
+  },
+  {
+    "time": 25.55,
+    "duration": 0.13,
+    "effect": "snap"
+  },
+  {
+    "time": 30.7,
+    "duration": 0.24,
+    "effect": "ding"
+  }
+]

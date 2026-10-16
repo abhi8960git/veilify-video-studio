@@ -1,0 +1,37 @@
+{
+  "name": "veilify-motion",
+  "version": "1.0.0",
+  "description": "Veilify 23-second motion film with in-row highlighting and square transaction ledgers",
+  "repository": {},
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@remotion/cli": "4.0.535",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.535",
+    "@remotion/fonts": "4.0.535",
+    "@remotion/media": "4.0.535",
+    "@remotion/transitions": "4.0.535"
+  },
+  "devDependencies": {
+    "@remotion/eslint-config-flat": "4.0.535",
+    "@types/react": "19.2.7",
+    "@types/web": "0.0.166",
+    "eslint": "9.39.5",
+    "prettier": "3.8.1",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "dev": "remotion studio",
+    "build": "remotion bundle",
+    "render": "remotion render src/index.ts VeilifyMotion ../veilify-motion-v3.mp4 --codec=h264 --crf=17 --pixel-format=yuv420p",
+    "upgrade": "remotion upgrade",
+    "lint": "eslint src && tsc",
+    "dev:cloud": "remotion studio src/index.ts --port=3345 --no-open",
+    "render:story": "remotion render src/index.ts VeilifyPrivacyStory out/veilify-privacy-story-part-1.mp4 --codec=h264 --crf=17 --pixel-format=yuv420p --concurrency=2"
+  },
+  "sideEffects": [
+    "*.css"
+  ]
+}

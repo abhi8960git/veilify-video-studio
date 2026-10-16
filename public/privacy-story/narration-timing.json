@@ -1,0 +1,44 @@
+[
+  {
+    "id": "01",
+    "start": 0.45,
+    "limit": 5.65,
+    "text": "You send a payment. They receive it.",
+    "duration": 2.1503
+  },
+  {
+    "id": "02",
+    "start": 6.25,
+    "limit": 12.65,
+    "text": "But on a public blockchain, someone else can see the addresses, the amount, and the time.",
+    "duration": 5.8538
+  },
+  {
+    "id": "03",
+    "start": 13.35,
+    "limit": 17.7,
+    "text": "Veilify brings private payments to the wallet you already use.",
+    "duration": 3.4857
+  },
+  {
+    "id": "04",
+    "start": 18.35,
+    "limit": 25.9,
+    "text": "Your payment comes from a shared pool. A zero-knowledge proof checks it without revealing which private note paid.",
+    "duration": 6.086
+  },
+  {
+    "id": "05",
+    "start": 26.1667,
+    "limit": 28.8,
+    "text": "Deposits and payouts are still public.",
+    "duration": 2.2201
+  },
+  {
+    "id": "06",
+    "start": 29.3,
+    "limit": 34.4,
+    "text": "Your payments. Your business. Next: inside the pool.",
+    "duration": 3.8918
+  }
+]

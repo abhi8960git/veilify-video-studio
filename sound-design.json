@@ -1,0 +1,447 @@
+{
+  "path": "/private/tmp/veilify-audio/sound-design-v2.wav",
+  "duration_s": 23.0,
+  "sample_rate_hz": 48000,
+  "channels": 2,
+  "bit_depth": 16,
+  "sample_peak_dbfs": -3.0,
+  "rms_dbfs": -38.021,
+  "clipped_samples": 0,
+  "seed": 48192,
+  "events": [
+    {
+      "time": 0.15,
+      "duration": 2.05,
+      "sound": "row movement"
+    },
+    {
+      "time": 2.1,
+      "duration": 2.25,
+      "sound": "row movement"
+    },
+    {
+      "time": 4.2,
+      "duration": 2.55,
+      "sound": "row movement"
+    },
+    {
+      "time": 2.4,
+      "duration": 0.7,
+      "sound": "public magnifier glass zoom in"
+    },
+    {
+      "time": 5.8,
+      "duration": 0.7,
+      "sound": "public magnifier glass zoom out"
+    },
+    {
+      "time": 6.94,
+      "duration": 0.19,
+      "sound": "toggle scene transition"
+    },
+    {
+      "time": 8.0,
+      "duration": 0.17,
+      "sound": "toggle touch"
+    },
+    {
+      "time": 8.0,
+      "duration": 0.55,
+      "sound": "toggle sliding"
+    },
+    {
+      "time": 8.55,
+      "duration": 0.17,
+      "sound": "toggle snap on"
+    },
+    {
+      "time": 9.94,
+      "duration": 0.24,
+      "sound": "private scene transition"
+    },
+    {
+      "time": 10.1,
+      "duration": 1.0,
+      "sound": "row movement"
+    },
+    {
+      "time": 10.8,
+      "duration": 0.7,
+      "sound": "private magnifier glass zoom in"
+    },
+    {
+      "time": 12.0,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 12.0741,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 12.131,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 12.216,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 12.27,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 12.3564,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 12.42,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 12.4897,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 12.57,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 12.6351,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 12.6995,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 12.7799,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 12.8442,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 12.9152,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 12.9831,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 13.0601,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 13.14,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 13.2116,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 13.261,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 13.3506,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 13.4099,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 13.4909,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 13.5583,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 13.6327,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 13.71,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 13.774,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 13.8383,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 13.9198,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 13.9801,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 14.0609,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 14.1225,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 14.2016,
+      "duration": 0.061,
+      "sound": "magnifier encryption typing"
+    },
+    {
+      "time": 14.28,
+      "duration": 0.061,
+      "sound": "final magnifier privacy dot"
+    },
+    {
+      "time": 14.37,
+      "duration": 0.061,
+      "sound": "final magnifier privacy dot"
+    },
+    {
+      "time": 14.5,
+      "duration": 0.061,
+      "sound": "privacy lock latch"
+    },
+    {
+      "time": 15.2,
+      "duration": 0.7,
+      "sound": "private magnifier glass zoom out"
+    },
+    {
+      "time": 16.1,
+      "duration": 0.061,
+      "sound": "surrounding cube encryption typing"
+    },
+    {
+      "time": 16.1692,
+      "duration": 0.061,
+      "sound": "surrounding cube encryption typing"
+    },
+    {
+      "time": 16.2182,
+      "duration": 0.061,
+      "sound": "surrounding cube encryption typing"
+    },
+    {
+      "time": 16.3018,
+      "duration": 0.061,
+      "sound": "surrounding cube encryption typing"
+    },
+    {
+      "time": 16.3637,
+      "duration": 0.061,
+      "sound": "surrounding cube encryption typing"
+    },
+    {
+      "time": 16.4468,
+      "duration": 0.061,
+      "sound": "surrounding cube encryption typing"
+    },
+    {
+      "time": 16.53,
+      "duration": 0.061,
+      "sound": "privacy lock latch"
+    },
+    {
+      "time": 16.62,
+      "duration": 0.061,
+      "sound": "surrounding cube encryption typing"
+    },
+    {
+      "time": 16.6836,
+      "duration": 0.061,
+      "sound": "surrounding cube encryption typing"
+    },
+    {
+      "time": 16.7405,
+      "duration": 0.061,
+      "sound": "surrounding cube encryption typing"
+    },
+    {
+      "time": 16.8255,
+      "duration": 0.061,
+      "sound": "surrounding cube encryption typing"
+    },
+    {
+      "time": 16.8887,
+      "duration": 0.061,
+      "sound": "surrounding cube encryption typing"
+    },
+    {
+      "time": 16.9659,
+      "duration": 0.061,
+      "sound": "surrounding cube encryption typing"
+    },
+    {
+      "time": 17.05,
+      "duration": 0.061,
+      "sound": "privacy lock latch"
+    },
+    {
+      "time": 17.15,
+      "duration": 0.061,
+      "sound": "surrounding cube encryption typing"
+    },
+    {
+      "time": 17.2184,
+      "duration": 0.061,
+      "sound": "surrounding cube encryption typing"
+    },
+    {
+      "time": 17.275,
+      "duration": 0.061,
+      "sound": "surrounding cube encryption typing"
+    },
+    {
+      "time": 17.3522,
+      "duration": 0.061,
+      "sound": "surrounding cube encryption typing"
+    },
+    {
+      "time": 17.4181,
+      "duration": 0.061,
+      "sound": "surrounding cube encryption typing"
+    },
+    {
+      "time": 17.4907,
+      "duration": 0.061,
+      "sound": "surrounding cube encryption typing"
+    },
+    {
+      "time": 17.58,
+      "duration": 0.061,
+      "sound": "privacy lock latch"
+    },
+    {
+      "time": 17.7,
+      "duration": 0.061,
+      "sound": "surrounding cube encryption typing"
+    },
+    {
+      "time": 17.7623,
+      "duration": 0.061,
+      "sound": "surrounding cube encryption typing"
+    },
+    {
+      "time": 17.824,
+      "duration": 0.061,
+      "sound": "surrounding cube encryption typing"
+    },
+    {
+      "time": 17.8956,
+      "duration": 0.061,
+      "sound": "surrounding cube encryption typing"
+    },
+    {
+      "time": 17.9709,
+      "duration": 0.061,
+      "sound": "surrounding cube encryption typing"
+    },
+    {
+      "time": 18.0404,
+      "duration": 0.061,
+      "sound": "surrounding cube encryption typing"
+    },
+    {
+      "time": 18.13,
+      "duration": 0.061,
+      "sound": "privacy lock latch"
+    },
+    {
+      "time": 16.1,
+      "duration": 2.1,
+      "sound": "row movement"
+    },
+    {
+      "time": 19.0,
+      "duration": 0.4,
+      "sound": "end card airy hit"
+    },
+    {
+      "time": 19.5,
+      "duration": 0.061,
+      "sound": "tagline reveal"
+    },
+    {
+      "time": 19.53,
+      "duration": 0.31,
+      "sound": "tagline breath"
+    },
+    {
+      "time": 20.1,
+      "duration": 0.061,
+      "sound": "URL reveal"
+    },
+    {
+      "time": 20.12,
+      "duration": 0.38,
+      "sound": "URL breath"
+    }
+  ],
+  "integrated_loudness_lufs": -30.7,
+  "true_peak_dbfs": -3.0,
+  "segment_metrics": {
+    "public_rows_0_7": {
+      "peak_dbfs": -23.33,
+      "rms_dbfs": -43.79
+    },
+    "toggle_8_8_75": {
+      "peak_dbfs": -3.0,
+      "rms_dbfs": -28.06
+    },
+    "magnifier_typing_12_14_7": {
+      "peak_dbfs": -9.85,
+      "rms_dbfs": -32.74
+    },
+    "cube_swarm_16_1_18_3": {
+      "peak_dbfs": -15.35,
+      "rms_dbfs": -37.95
+    },
+    "end_card_19_21": {
+      "peak_dbfs": -19.78,
+      "rms_dbfs": -41.64
+    }
+  }
+}
